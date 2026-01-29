@@ -18,10 +18,7 @@ GROUP_REPOS = [
     "stack": [],
     "documentation": [],
     "sla": "",
-}
-]
-
-GROUP_REPOS = [
+},
 {
     "name": "ASCDevOps",
     "gitLinks": ["https://github.com/ASCDevOps/whoknows_variations"],

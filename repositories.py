@@ -49,6 +49,15 @@ GROUP_REPOS = [
     "documentation": [],
     "sla": "",
 },
-
+{
+    "name": "BaseJumpers",
+    "gitLinks": ["https://github.com/BaseJumpers/BaseJumperSearch"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": [],
+    "documentation": [],
+    "sla": "",
+}
 
 ]

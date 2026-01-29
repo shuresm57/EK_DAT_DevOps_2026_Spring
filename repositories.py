@@ -28,5 +28,17 @@ GROUP_REPOS = [
     "stack": [],
     "documentation": [],
     "sla": "",
+}, 
+
+{
+    "name": "ripmarkus",
+    "gitLinks": ["https://github.com/ripmarkus/DevOps26"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": [],
+    "documentation": [],
+    "sla": "",
 }
+
 ]

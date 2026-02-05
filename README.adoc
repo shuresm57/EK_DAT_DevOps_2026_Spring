@@ -161,7 +161,7 @@ link:00._Course_Material/01._Assignments/03._Github_Actions_Cloud_Azure_Deploy/0
 
 link:00._Course_Material/01._Assignments/03._Github_Actions_Cloud_Azure_Deploy/01._Before/github_pr_template.md[GitHub PR template]
 
-// a|
+a|
 // link:00._Course_Material/01._Assignments/03._Github_Actions_Cloud_Azure_Deploy/02._After/ek_azure.md[EK Azure Resources]
 
 // link:00._Course_Material/01._Assignments/03._Github_Actions_Cloud_Azure_Deploy/02._After/keep_rewriting.md[Keep rewriting]

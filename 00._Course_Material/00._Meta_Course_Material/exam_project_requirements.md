@@ -98,15 +98,12 @@ You must have monitoring.
 
 ## Deployment
 
+Your system must be deployed for the exam.
+
 Your application must be deployed to a Virtual Machine or similar. Services like Web Apps or PaaS like Vercel etc. are great and easy to use, but it removes your chance to learn about topics such as server management, maintenance and upkeep.
 
 While not required to implement it, you must've discussed scaling and an optimal deployment strategy in your groups.
 
----
-
-## Production
-
-Your system must be deployed for the exam.
 
 ---
 ---

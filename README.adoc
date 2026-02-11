@@ -150,10 +150,7 @@ link:00._Course_Material/02._Slides/03._Github_Actions_Cloud_Azure_Deploy/06._mo
 link:00._Course_Material/02._Slides/03._Github_Actions_Cloud_Azure_Deploy/07._ssh.md[SSH]
 // SSH
 
-link:00._Course_Material/02._Slides/03._Github_Actions_Cloud_Azure_Deploy/08._running_in_production.md[Running in Production]
-// Running in Production
-
-link:00._Course_Material/02._Slides/03._Github_Actions_Cloud_Azure_Deploy/09._deployment_considerations.md[Deployment Considerations]
+link:00._Course_Material/02._Slides/03._Github_Actions_Cloud_Azure_Deploy/08._deployment_considerations.md[Deployment Considerations]
 // Deployment Considerations
 
 a|

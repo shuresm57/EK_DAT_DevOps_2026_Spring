@@ -96,7 +96,7 @@ GROUP_REPOS = [
       "backend": "",
       "frontend": "",
       "monitoring": "",
-      "stack": [""],
+      "stack": [],
       "documentation": [],
       "sla": "",
 }  

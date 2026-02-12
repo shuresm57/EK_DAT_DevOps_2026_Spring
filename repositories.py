@@ -99,8 +99,6 @@ GROUP_REPOS = [
       "stack": [""],
       "documentation": [""],
       "sla": "",
-}
-
-   
+}  
 ]
 

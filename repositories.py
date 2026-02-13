@@ -35,7 +35,7 @@ GROUP_REPOS = [
     "backend": "",
     "frontend": "",
     "monitoring": "",
-    "stack": [],
+    "stack": ["Ruby", "SQLite"],
     "documentation": [],
     "sla": "",
 },

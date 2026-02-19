@@ -22,10 +22,10 @@ GROUP_REPOS = [
 {
     "name": "ASCDevOps",
     "gitLinks": ["https://github.com/ASCDevOps/ASC_whoknows"],
-    "backend": "",
+    "backend": "http://20.251.163.132:8080",
     "frontend": "",
     "monitoring": "",
-    "stack": ["GO"],
+    "stack": ["GO", "SQLite"],
     "documentation": [],
     "sla": "",
 }, 

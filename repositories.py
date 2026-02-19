@@ -92,10 +92,10 @@ GROUP_REPOS = [
 {
      "name": "SyntaxDevOpsSquad",
       "gitLinks": ["https://github.com/SyntaxDevopsSquad-SDS/devops-syntaxsquad"],
-      "backend": "",
-      "frontend": "",
+      "backend": "http://51.103.136.200:8080",
+      "frontend": "http://51.103.136.200:8080",
       "monitoring": "",
-      "stack": ["GO"],
+      "stack": ["GO, SQLite"],
       "documentation": [],
       "sla": "",
 }  
